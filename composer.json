@@ -1,6 +1,6 @@
 {
-    "name": "cinesthetic/aws-php-foundation",
-    "description": "Foundational support for Amazon AWS/PHP projects.  Basic package includes AWS SDK for PHP, Monolog and ChromePHP to be used with Chrome Logger for debugging server sude PHP from the browser.",
+    "name": "cinesthetic/test-composer-package",
+    "description": "Just testing the Composer to GitHub.com to Packagist.org Workflow",
     "require": {
 	"php": ">=5.3.2",
         "monolog/monolog": "1.2.*",
